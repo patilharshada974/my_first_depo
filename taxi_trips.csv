@@ -1,0 +1,11 @@
+trip_id,driver_name,pickup_location,drop_location,distance_km,fare_amount
+1,Arjun,Andheri,Bandra,12.5,250
+2,Meera,Borivali,Dadar,18,360
+3,Rahul,Bandra,CST,8.2,170
+4,Sneha,Dadar,Andheri,14.3,290
+5,Kunal,CST,Bandra,6.8,140
+6,Meera,Bandra,Andheri,10,210
+7,Arjun,Borivali,CST,25.5,500
+8,Sneha,Dadar,Borivali,15,300
+9,Rahul,Andheri,CST,13,270
+10,Kunal,CST,Dadar,5,120
